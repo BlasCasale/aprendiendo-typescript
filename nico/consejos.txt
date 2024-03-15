@@ -1,0 +1,1 @@
+para crear aplicaciones tengo que usar @types/react (ej) 
